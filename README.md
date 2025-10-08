@@ -42,7 +42,7 @@ cd 15puzzle
 
 2. **Compile the program**  
 ```bash
-g++ -std=c++17 -o 15puzzle main.cpp
+g++ -std=c++17 -I include -o 15puzzle src/*.cpp
 ```
 
 3. **Run the game**  

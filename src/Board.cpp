@@ -51,7 +51,7 @@ void Board::swapPoints(Point& p1, Point& p2)
     std::swap(m_tiles[p1.y][p1.x], m_tiles[p2.y][p2.x]);
 }
 
-bool Board::moveTile(Direction& d)
+bool Board::moveTile(const Direction& d)
 {
         Point empty { findEmptyPoint() };
         Point adj { empty.getAdjacentPoint(-d) };

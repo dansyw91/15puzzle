@@ -24,7 +24,7 @@ public:
 
     void swapPoints(Point& p1, Point& p2);
 
-    bool moveTile(Direction& d);
+    bool moveTile(const Direction& d);
 
     void randomize(Board& b);
 
