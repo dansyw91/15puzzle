@@ -35,16 +35,16 @@ Sounds simple? Try it — and see how fast your brain can shuffle and solve!
 ## 🚀 How to Run
 
 1. **Clone the repository**  
-bash:  
+```bash  
 git clone git@github.com:dansyw91/15puzzle.git  
 cd 15puzzle
 
 2. **Compile the program**  
-bash:  
+```bash  
 g++ -std=c++17 -o 15puzzle main.cpp
 
 3. **Run the game**  
-bash:  
+```bash  
 ./15puzzle
 
 Move tile: 14  
