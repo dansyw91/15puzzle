@@ -1,0 +1,24 @@
+# build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Visual Studio files
+*.sln
+*.vcxproj*
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.recipe
+*.log
+
+# executables
+*.exe
+*.out
+*.o 
+
+# OS-specific files
+.DS_Store
+Thumbs.db

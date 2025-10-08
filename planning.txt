@@ -1,0 +1,12 @@
+Board things:
+- display the board game
+- display fixed number for each tile
+- randomize the start game
+- movement of numbers
+- recognize if number is in correct position
+- determine if win condition is met
+
+User things:
+- get command from users
+- handle invalid input
+- allow quit before game completion
