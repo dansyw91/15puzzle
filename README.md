@@ -54,7 +54,7 @@ Have fun and good luck!🤪
   
 ---
 
-📚 Learning Focus  
+# 📚 Learning Focus  
 This project was created as part of my C++ practice journey, especially focusing on:
 
 Operator overloading
@@ -65,7 +65,7 @@ Logical thinking through algorithm design
 
 Writing maintainable, expressive code
 
-🌟 Future Improvements  
+## 🌟 Future Improvements  
 
 🖥️ Add a simple graphical interface (SDL / SFML)
 
@@ -75,7 +75,7 @@ Writing maintainable, expressive code
 
 💬 Add a leaderboard for local high scores
 
-👨‍💻 Author  
+# 👨‍💻 Author  
 Dan S. W.  
 💼 Aspiring Robotics & C++ Developer  
 🌍 Passionate about learning, building, and solving real-world problems with automation
