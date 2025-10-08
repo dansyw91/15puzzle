@@ -50,7 +50,9 @@ g++ -std=c++17 -I include -o 15puzzle src/*.cpp
 ./15puzzle
 ```
 
-Move tile: 14  
+Have fun and good luck!🤪  
+  
+  
 💡 Tip: Each move counts — can you solve it in the fewest steps possible?
 
 📚 Learning Focus  
