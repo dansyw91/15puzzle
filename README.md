@@ -34,34 +34,23 @@ Sounds simple? Try it — and see how fast your brain can shuffle and solve!
 
 ## 🚀 How to Run
 
-1. **Clone the repository**
-bash:
-git clone git@github.com:dansyw91/15puzzle.git
+1. **Clone the repository**  
+bash:  
+git clone git@github.com:dansyw91/15puzzle.git  
 cd 15puzzle
 
-2. **Compile the program**
-bash:
+2. **Compile the program**  
+bash:  
 g++ -std=c++17 -o 15puzzle main.cpp
 
-3. **Run the game**
-bash:
+3. **Run the game**  
+bash:  
 ./15puzzle
 
-🎮 Gameplay Example
-+----+----+----+----+
-|  1 |  2 |  3 |  4 |
-+----+----+----+----+
-|  5 |  6 |  7 |  8 |
-+----+----+----+----+
-|  9 | 10 | 11 | 12 |
-+----+----+----+----+
-| 13 | 15 | 14 |    |
-+----+----+----+----+
-
-Move tile: 14
+Move tile: 14  
 💡 Tip: Each move counts — can you solve it in the fewest steps possible?
 
-📚 Learning Focus
+📚 Learning Focus  
 This project was created as part of my C++ practice journey, especially focusing on:
 
 Operator overloading
@@ -72,7 +61,8 @@ Logical thinking through algorithm design
 
 Writing maintainable, expressive code
 
-🌟 Future Improvements
+🌟 Future Improvements  
+
 🖥️ Add a simple graphical interface (SDL / SFML)
 
 🧮 Implement an AI auto-solver
@@ -81,7 +71,7 @@ Writing maintainable, expressive code
 
 💬 Add a leaderboard for local high scores
 
-👨‍💻 Author
-Dan S. W.
-💼 Aspiring Robotics & C++ Developer
-🌍 Passionate about learning, building, and solving real-world problems with automation.
+👨‍💻 Author  
+Dan S. W.  
+💼 Aspiring Robotics & C++ Developer  
+🌍 Passionate about learning, building, and solving real-world problems with automation
