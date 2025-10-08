@@ -88,6 +88,6 @@ Writing maintainable, expressive code
 ## 👨‍💻 Author  
 Dan S. W.  
 💼 Aspiring Robotics & C++ Developer  
-🌍 Passionate about learning, building, and solving real-world problems with automation
+🌍 Passionate about learning, building, and solving real-world problems with automation  
 I love feedback and collaboration, get in touch with me! 
 📨 dansyw91@gmail.com
