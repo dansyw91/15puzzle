@@ -52,8 +52,7 @@ g++ -std=c++17 -I include -o 15puzzle src/*.cpp
 
 Have fun and good luck!🤪  
   
-  
-💡 Tip: Each move counts — can you solve it in the fewest steps possible?
+---
 
 📚 Learning Focus  
 This project was created as part of my C++ practice journey, especially focusing on:
