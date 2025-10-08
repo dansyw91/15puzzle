@@ -75,6 +75,8 @@ Writing maintainable, expressive code
 
 💬 Add a leaderboard for local high scores
 
+---
+
 # 👨‍💻 Author  
 Dan S. W.  
 💼 Aspiring Robotics & C++ Developer  
