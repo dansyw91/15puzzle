@@ -54,7 +54,7 @@ Have fun and good luck!🤪
   
 ---
 
-# 📚 Learning Focus  
+## 📚 Learning Focus  
 This project was created as part of my C++ practice journey, especially focusing on:
 
 Operator overloading
@@ -77,7 +77,7 @@ Writing maintainable, expressive code
 
 ---
 
-# 👨‍💻 Author  
+## 👨‍💻 Author  
 Dan S. W.  
 💼 Aspiring Robotics & C++ Developer  
 🌍 Passionate about learning, building, and solving real-world problems with automation
