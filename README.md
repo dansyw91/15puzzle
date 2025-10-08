@@ -45,6 +45,14 @@ cd 15puzzle
 g++ -std=c++17 -I include -o 15puzzle src/*.cpp
 ```
 
+or use CMake:
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build . --config Release
+```
+
 3. **Run the game**  
 ```bash
 ./15puzzle
